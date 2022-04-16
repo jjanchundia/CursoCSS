@@ -1,0 +1,24 @@
+body{
+    /* background-color: dodgerblue; */
+    /* color de fuente */
+    color: cornsilk;
+    /*background-image: url("/Fondos/fondo.png");
+    background-repeat: no-repeat; */
+    /* para posicionar imagen de cada lado */
+    /* background-position: right top; */
+    /* Se mueve imagen con scroll */
+    /* background-attachment: scroll; */
+    /* no se mueve imagen al hacer scroll */
+    background-attachment: fixed;
+
+
+    /* Forma simplificado, solo usamos background */
+    /* recibe color, imagen */
+    background: dodgerblue url("/Fondos/fondo.png") no-repeat right top;
+}
+
+h1{
+    text-align: center;
+    background-color: dodgerblue;
+    /* height: 1000px; */
+}
