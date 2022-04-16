@@ -1,13 +1,11 @@
 h1{
     text-align: center;
 }
-
 .solido{
     border: solid red;
     border-width: 10px;
     border-radius: 20px;
 }
-
 .redondeado{
     border: solid red;
     border-width: 5px;
