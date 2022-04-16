@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+}
+
+.rojo{
+    border: 10px solid red;
+    /* background-color: red; */
+}
+
+.rosa{
+    border: 10px dashed red;
+    background-color: rosybrown;
+}
+
+.verde{
+    border: 10px dotted red;
+    background-color: chartreuse;
+}
+
+.amarillo{
+    border: 10px double red;
+    background-color: yellow;
+}
+
+/* Agrupación de estilos */
+/* .rojo, .rosa{
+    color: white;
+} */
+
+/* .div{
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+} */
